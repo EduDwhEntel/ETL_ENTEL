@@ -30,3 +30,5 @@ El script `main.py` integra las operaciones del ETLT usando las clases, siguiend
 1. Conexión a las bases de datos de origen y destino.
 2. Configuración e instancia de las clases `Extractor`, `Transformer`, `Loader`, y `LargeTransformer`.
 3. Extracción, transformación (básica y avanzada), y carga de datos.
+
+cambio pequeño
