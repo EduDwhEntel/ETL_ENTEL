@@ -22,7 +22,7 @@
   - `localTransform(self, sql)`: Ejecuta un comando SQL para transformar datos en la BD.
 
 ### Config.py:
-- **archivo de configuracion:** hay que crearlo y moverlo a la carpeta principal
+- **archivo de configuracion:** hay que crearlo y moverlo a la carpeta principal :0 :0 :0 
 
 ## main.py
 
