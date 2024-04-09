@@ -17,6 +17,6 @@ FILE_PATH = 'C:/Users/EDUARDO/Desktop/04_GIT/RepoPtyhon_steps/ETLT/df_extract.cs
 SQL_ORI = 'select * from bta_dw.ref_trff_plan'
 TABLE_DEST = 'cvm_inf.tb_dwh_trff_plan'
 SQL_step1 = f'truncate table {TABLE_DEST}'
-SQL_step2 = f"SELECT 5 FROM DUAL" ##se usa doble corchete para poder usar el where con ''
+SQL_step2 = f"SELECT 1 FROM DUAL" ##se usa doble corchete para poder usar el where con ''
 TIPO_CARGA = 'no_create' ##create -> no_create
 
