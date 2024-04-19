@@ -1,5 +1,5 @@
 ### Clase: `Extractor`
-- **Descripción:** Extrae datos desde una fuente..
+- **Descripción:** Extrae datos desde una fuente...
 - **Métodos:**
   - `extract(self, sql)`: Ejecuta un query SQL y devuelve los resultados como un DataFrame de pandas.
   - `dumpCsv(self, dataframe, nombre)`: Exporta un DataFrame a un archivo CSV.
