@@ -35,10 +35,10 @@ def descarga(hostname, username, password, remote_path, local_path):
         print(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    server_address = "s-e0b41ca0a90a48059.server.transfer.sa-east-1.amazonaws.com"
-    username = "eduardo.gonzales.pisco@entel.pe"
-    password = "testing123"
-    remote_dir = "/awsfluxus-entel/entel/REPO_CODE"
-    local_dir = r"C:\Users\mdrmo\Desktop\entel verano 2024\trabajo\Abril\REPO_CODE"
+    server_address = ""
+    username = ""
+    password = ""
+    remote_dir = ""
+    local_dir = r""
     
     descarga(server_address, username, password, remote_dir, local_dir)
